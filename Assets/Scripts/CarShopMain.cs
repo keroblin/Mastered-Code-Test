@@ -8,7 +8,7 @@ public class CarShopMain : MonoBehaviour
 {
     public List<Car> cars;
     public Car currentCar;
-    public int currentCarIndex;
+    int currentCarIndex;
 
     public TextMeshProUGUI carName;
     public TextMeshProUGUI carDesc;
